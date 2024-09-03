@@ -3337,6 +3337,7 @@
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Uploads\images\banh1.jpg" />
     <Content Include="Uploads\images\coopmart-164.jpg" />
+    <Content Include="Content\assets\images\pg.png" />
     <Content Include="Uploads\_thumbs\Images\banh1.jpg" />
     <Content Include="Uploads\_thumbs\Images\coopmart-164.jpg" />
     <Content Include="Web.config" />
